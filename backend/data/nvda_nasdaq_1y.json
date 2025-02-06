@@ -1,0 +1,1523 @@
+{
+  "symbol": "NVDA:NASDAQ",
+  "type": "stock",
+  "price": 128.99,
+  "previous_close": 118.42,
+  "change": 10.57,
+  "change_percent": 8.9259,
+  "pre_or_post_market": 128.34,
+  "pre_or_post_market_change": -0.65,
+  "pre_or_post_market_change_percent": -0.5039,
+  "last_update_utc": "2025-01-29 09:21:57",
+  "time_series": {
+    "2024-01-29 16:00:00": {
+      "price": 62.47,
+      "change": 0,
+      "change_percent": 0,
+      "volume": 34873298
+    },
+    "2024-01-30 16:00:00": {
+      "price": 62.77,
+      "change": 0.3,
+      "change_percent": 0.0048,
+      "volume": 41073530
+    },
+    "2024-01-31 16:00:00": {
+      "price": 61.53,
+      "change": -0.94,
+      "change_percent": -0.015,
+      "volume": 45379487
+    },
+    "2024-02-01 16:00:00": {
+      "price": 63.03,
+      "change": 0.56,
+      "change_percent": 0.009,
+      "volume": 36914579
+    },
+    "2024-02-02 16:00:00": {
+      "price": 66.16,
+      "change": 3.69,
+      "change_percent": 0.0591,
+      "volume": 47657765
+    },
+    "2024-02-05 16:00:00": {
+      "price": 69.33,
+      "change": 6.86,
+      "change_percent": 0.1098,
+      "volume": 68007801
+    },
+    "2024-02-06 16:00:00": {
+      "price": 68.22,
+      "change": 5.75,
+      "change_percent": 0.092,
+      "volume": 68311136
+    },
+    "2024-02-07 16:00:00": {
+      "price": 70.1,
+      "change": 7.63,
+      "change_percent": 0.1221,
+      "volume": 49557455
+    },
+    "2024-02-08 16:00:00": {
+      "price": 69.64,
+      "change": 7.17,
+      "change_percent": 0.1148,
+      "volume": 41442211
+    },
+    "2024-02-09 16:00:00": {
+      "price": 72.13,
+      "change": 9.66,
+      "change_percent": 0.1546,
+      "volume": 43663689
+    },
+    "2024-02-12 16:00:00": {
+      "price": 72.25,
+      "change": 9.78,
+      "change_percent": 0.1566,
+      "volume": 61371018
+    },
+    "2024-02-13 16:00:00": {
+      "price": 72.13,
+      "change": 9.66,
+      "change_percent": 0.1546,
+      "volume": 60258015
+    },
+    "2024-02-14 16:00:00": {
+      "price": 73.9,
+      "change": 11.43,
+      "change_percent": 0.183,
+      "volume": 50491742
+    },
+    "2024-02-15 16:00:00": {
+      "price": 72.66,
+      "change": 10.19,
+      "change_percent": 0.1631,
+      "volume": 42012181
+    },
+    "2024-02-16 16:00:00": {
+      "price": 72.61,
+      "change": 10.14,
+      "change_percent": 0.1623,
+      "volume": 49532662
+    },
+    "2024-02-20 16:00:00": {
+      "price": 69.45,
+      "change": 6.98,
+      "change_percent": 0.1117,
+      "volume": 70483310
+    },
+    "2024-02-21 16:00:00": {
+      "price": 67.47,
+      "change": 5,
+      "change_percent": 0.08,
+      "volume": 69029813
+    },
+    "2024-02-22 16:00:00": {
+      "price": 78.54,
+      "change": 16.07,
+      "change_percent": 0.2572,
+      "volume": 86509974
+    },
+    "2024-02-23 16:00:00": {
+      "price": 78.82,
+      "change": 16.35,
+      "change_percent": 0.2617,
+      "volume": 82938837
+    },
+    "2024-02-26 16:00:00": {
+      "price": 79.09,
+      "change": 16.62,
+      "change_percent": 0.266,
+      "volume": 50397273
+    },
+    "2024-02-27 16:00:00": {
+      "price": 78.7,
+      "change": 16.23,
+      "change_percent": 0.2598,
+      "volume": 39170524
+    },
+    "2024-02-28 16:00:00": {
+      "price": 77.66,
+      "change": 15.19,
+      "change_percent": 0.2432,
+      "volume": 39311040
+    },
+    "2024-02-29 16:00:00": {
+      "price": 79.11,
+      "change": 16.64,
+      "change_percent": 0.2664,
+      "volume": 50728898
+    },
+    "2024-03-01 16:00:00": {
+      "price": 82.28,
+      "change": 19.81,
+      "change_percent": 0.3171,
+      "volume": 47913510
+    },
+    "2024-03-04 16:00:00": {
+      "price": 85.24,
+      "change": 22.77,
+      "change_percent": 0.3645,
+      "volume": 61561645
+    },
+    "2024-03-05 16:00:00": {
+      "price": 85.96,
+      "change": 23.49,
+      "change_percent": 0.376,
+      "volume": 52063930
+    },
+    "2024-03-06 16:00:00": {
+      "price": 88.7,
+      "change": 26.23,
+      "change_percent": 0.4199,
+      "volume": 58252030
+    },
+    "2024-03-07 16:00:00": {
+      "price": 92.67,
+      "change": 30.2,
+      "change_percent": 0.4834,
+      "volume": 60811916
+    },
+    "2024-03-08 16:00:00": {
+      "price": 87.53,
+      "change": 25.06,
+      "change_percent": 0.4012,
+      "volume": 114226906
+    },
+    "2024-03-11 16:00:00": {
+      "price": 85.77,
+      "change": 23.3,
+      "change_percent": 0.373,
+      "volume": 67836412
+    },
+    "2024-03-12 16:00:00": {
+      "price": 91.91,
+      "change": 29.44,
+      "change_percent": 0.4713,
+      "volume": 66807515
+    },
+    "2024-03-13 16:00:00": {
+      "price": 90.89,
+      "change": 28.42,
+      "change_percent": 0.4549,
+      "volume": 63571289
+    },
+    "2024-03-14 16:00:00": {
+      "price": 87.94,
+      "change": 25.47,
+      "change_percent": 0.4077,
+      "volume": 60231816
+    },
+    "2024-03-15 16:00:00": {
+      "price": 87.84,
+      "change": 25.37,
+      "change_percent": 0.4061,
+      "volume": 64208616
+    },
+    "2024-03-18 16:00:00": {
+      "price": 88.46,
+      "change": 25.99,
+      "change_percent": 0.416,
+      "volume": 66897593
+    },
+    "2024-03-19 16:00:00": {
+      "price": 89.4,
+      "change": 26.93,
+      "change_percent": 0.4311,
+      "volume": 67217127
+    },
+    "2024-03-20 16:00:00": {
+      "price": 90.37,
+      "change": 27.9,
+      "change_percent": 0.4466,
+      "volume": 47906279
+    },
+    "2024-03-21 16:00:00": {
+      "price": 91.44,
+      "change": 28.97,
+      "change_percent": 0.4637,
+      "volume": 48037231
+    },
+    "2024-03-22 16:00:00": {
+      "price": 94.29,
+      "change": 31.82,
+      "change_percent": 0.5094,
+      "volume": 58671936
+    },
+    "2024-03-25 16:00:00": {
+      "price": 95,
+      "change": 32.53,
+      "change_percent": 0.5207,
+      "volume": 55213608
+    },
+    "2024-03-26 16:00:00": {
+      "price": 92.56,
+      "change": 30.09,
+      "change_percent": 0.4817,
+      "volume": 51364758
+    },
+    "2024-03-27 16:00:00": {
+      "price": 90.25,
+      "change": 27.78,
+      "change_percent": 0.4447,
+      "volume": 58606723
+    },
+    "2024-03-28 16:00:00": {
+      "price": 90.36,
+      "change": 27.89,
+      "change_percent": 0.4465,
+      "volume": 43521227
+    },
+    "2024-04-01 16:00:00": {
+      "price": 90.36,
+      "change": 27.89,
+      "change_percent": 0.4465,
+      "volume": 45244149
+    },
+    "2024-04-02 16:00:00": {
+      "price": 89.45,
+      "change": 26.98,
+      "change_percent": 0.4319,
+      "volume": 43306355
+    },
+    "2024-04-03 16:00:00": {
+      "price": 88.96,
+      "change": 26.49,
+      "change_percent": 0.424,
+      "volume": 37006655
+    },
+    "2024-04-04 16:00:00": {
+      "price": 85.91,
+      "change": 23.44,
+      "change_percent": 0.3752,
+      "volume": 43496492
+    },
+    "2024-04-05 16:00:00": {
+      "price": 88.01,
+      "change": 25.54,
+      "change_percent": 0.4088,
+      "volume": 39967846
+    },
+    "2024-04-08 16:00:00": {
+      "price": 87.13,
+      "change": 24.66,
+      "change_percent": 0.3947,
+      "volume": 28322000
+    },
+    "2024-04-09 16:00:00": {
+      "price": 85.35,
+      "change": 22.88,
+      "change_percent": 0.3663,
+      "volume": 50354735
+    },
+    "2024-04-10 16:00:00": {
+      "price": 87.04,
+      "change": 24.57,
+      "change_percent": 0.3933,
+      "volume": 43192853
+    },
+    "2024-04-11 16:00:00": {
+      "price": 90.62,
+      "change": 28.15,
+      "change_percent": 0.4506,
+      "volume": 43163727
+    },
+    "2024-04-12 16:00:00": {
+      "price": 88.19,
+      "change": 25.72,
+      "change_percent": 0.4117,
+      "volume": 42680479
+    },
+    "2024-04-15 16:00:00": {
+      "price": 86,
+      "change": 23.53,
+      "change_percent": 0.3767,
+      "volume": 44307695
+    },
+    "2024-04-16 16:00:00": {
+      "price": 87.42,
+      "change": 24.95,
+      "change_percent": 0.3994,
+      "volume": 37045302
+    },
+    "2024-04-17 16:00:00": {
+      "price": 84.04,
+      "change": 21.57,
+      "change_percent": 0.3453,
+      "volume": 49539951
+    },
+    "2024-04-18 16:00:00": {
+      "price": 84.67,
+      "change": 22.2,
+      "change_percent": 0.3554,
+      "volume": 44726034
+    },
+    "2024-04-19 16:00:00": {
+      "price": 76.2,
+      "change": 13.73,
+      "change_percent": 0.2198,
+      "volume": 87519800
+    },
+    "2024-04-22 16:00:00": {
+      "price": 79.52,
+      "change": 17.05,
+      "change_percent": 0.2729,
+      "volume": 59634051
+    },
+    "2024-04-23 16:00:00": {
+      "price": 82.42,
+      "change": 19.95,
+      "change_percent": 0.3194,
+      "volume": 43855937
+    },
+    "2024-04-24 16:00:00": {
+      "price": 79.68,
+      "change": 17.21,
+      "change_percent": 0.2755,
+      "volume": 51220753
+    },
+    "2024-04-25 16:00:00": {
+      "price": 82.63,
+      "change": 20.16,
+      "change_percent": 0.3227,
+      "volume": 42464073
+    },
+    "2024-04-26 16:00:00": {
+      "price": 87.74,
+      "change": 25.27,
+      "change_percent": 0.4045,
+      "volume": 55101078
+    },
+    "2024-04-29 16:00:00": {
+      "price": 87.76,
+      "change": 25.29,
+      "change_percent": 0.4048,
+      "volume": 38897076
+    },
+    "2024-04-30 16:00:00": {
+      "price": 86.4,
+      "change": 23.93,
+      "change_percent": 0.3831,
+      "volume": 36370870
+    },
+    "2024-05-01 16:00:00": {
+      "price": 83.04,
+      "change": 20.57,
+      "change_percent": 0.3293,
+      "volume": 55986317
+    },
+    "2024-05-02 16:00:00": {
+      "price": 85.82,
+      "change": 23.35,
+      "change_percent": 0.3738,
+      "volume": 37789754
+    },
+    "2024-05-03 16:00:00": {
+      "price": 88.79,
+      "change": 26.32,
+      "change_percent": 0.4213,
+      "volume": 39834072
+    },
+    "2024-05-06 16:00:00": {
+      "price": 92.14,
+      "change": 29.67,
+      "change_percent": 0.4749,
+      "volume": 37620255
+    },
+    "2024-05-07 16:00:00": {
+      "price": 90.55,
+      "change": 28.08,
+      "change_percent": 0.4495,
+      "volume": 43734161
+    },
+    "2024-05-08 16:00:00": {
+      "price": 90.41,
+      "change": 27.94,
+      "change_percent": 0.4473,
+      "volume": 32572102
+    },
+    "2024-05-09 16:00:00": {
+      "price": 88.75,
+      "change": 26.28,
+      "change_percent": 0.4207,
+      "volume": 37801268
+    },
+    "2024-05-10 16:00:00": {
+      "price": 89.88,
+      "change": 27.41,
+      "change_percent": 0.4388,
+      "volume": 33532541
+    },
+    "2024-05-13 16:00:00": {
+      "price": 90.4,
+      "change": 27.93,
+      "change_percent": 0.4471,
+      "volume": 28968017
+    },
+    "2024-05-14 16:00:00": {
+      "price": 91.36,
+      "change": 28.89,
+      "change_percent": 0.4625,
+      "volume": 29650708
+    },
+    "2024-05-15 16:00:00": {
+      "price": 94.63,
+      "change": 32.16,
+      "change_percent": 0.5148,
+      "volume": 41773545
+    },
+    "2024-05-16 16:00:00": {
+      "price": 94.36,
+      "change": 31.89,
+      "change_percent": 0.5105,
+      "volume": 32395182
+    },
+    "2024-05-17 16:00:00": {
+      "price": 92.48,
+      "change": 30.01,
+      "change_percent": 0.4804,
+      "volume": 35969103
+    },
+    "2024-05-20 16:00:00": {
+      "price": 94.78,
+      "change": 32.31,
+      "change_percent": 0.5172,
+      "volume": 31876446
+    },
+    "2024-05-21 16:00:00": {
+      "price": 95.39,
+      "change": 32.92,
+      "change_percent": 0.527,
+      "volume": 32894646
+    },
+    "2024-05-22 16:00:00": {
+      "price": 94.95,
+      "change": 32.48,
+      "change_percent": 0.5199,
+      "volume": 54864799
+    },
+    "2024-05-23 16:00:00": {
+      "price": 103.8,
+      "change": 41.33,
+      "change_percent": 0.6616,
+      "volume": 83506528
+    },
+    "2024-05-24 16:00:00": {
+      "price": 106.47,
+      "change": 44,
+      "change_percent": 0.7043,
+      "volume": 42949367
+    },
+    "2024-05-28 16:00:00": {
+      "price": 113.9,
+      "change": 51.43,
+      "change_percent": 0.8233,
+      "volume": 65272789
+    },
+    "2024-05-29 16:00:00": {
+      "price": 114.83,
+      "change": 52.36,
+      "change_percent": 0.8382,
+      "volume": 55744193
+    },
+    "2024-05-30 16:00:00": {
+      "price": 110.5,
+      "change": 48.03,
+      "change_percent": 0.7688,
+      "volume": 48735033
+    },
+    "2024-05-31 16:00:00": {
+      "price": 109.63,
+      "change": 47.16,
+      "change_percent": 0.7549,
+      "volume": 61326250
+    },
+    "2024-06-03 16:00:00": {
+      "price": 115,
+      "change": 52.53,
+      "change_percent": 0.8409,
+      "volume": 43839176
+    },
+    "2024-06-04 16:00:00": {
+      "price": 116.44,
+      "change": 53.97,
+      "change_percent": 0.8639,
+      "volume": 40332401
+    },
+    "2024-06-05 16:00:00": {
+      "price": 122.44,
+      "change": 59.97,
+      "change_percent": 0.96,
+      "volume": 52840178
+    },
+    "2024-06-06 16:00:00": {
+      "price": 121,
+      "change": 58.53,
+      "change_percent": 0.9369,
+      "volume": 66469619
+    },
+    "2024-06-07 16:00:00": {
+      "price": 120.89,
+      "change": 58.42,
+      "change_percent": 0.9352,
+      "volume": 41238580
+    },
+    "2024-06-10 16:00:00": {
+      "price": 121.79,
+      "change": 59.32,
+      "change_percent": 0.9496,
+      "volume": 314162650
+    },
+    "2024-06-11 16:00:00": {
+      "price": 120.91,
+      "change": 58.44,
+      "change_percent": 0.9355,
+      "volume": 222551158
+    },
+    "2024-06-12 16:00:00": {
+      "price": 125.2,
+      "change": 62.73,
+      "change_percent": 1.0042,
+      "volume": 299595001
+    },
+    "2024-06-13 16:00:00": {
+      "price": 129.61,
+      "change": 67.14,
+      "change_percent": 1.0748,
+      "volume": 260704537
+    },
+    "2024-06-14 16:00:00": {
+      "price": 131.88,
+      "change": 69.41,
+      "change_percent": 1.1111,
+      "volume": 309320376
+    },
+    "2024-06-17 16:00:00": {
+      "price": 130.98,
+      "change": 68.51,
+      "change_percent": 1.0967,
+      "volume": 288504444
+    },
+    "2024-06-18 16:00:00": {
+      "price": 135.58,
+      "change": 73.11,
+      "change_percent": 1.1703,
+      "volume": 294335054
+    },
+    "2024-06-20 16:00:00": {
+      "price": 130.78,
+      "change": 68.31,
+      "change_percent": 1.0935,
+      "volume": 517768425
+    },
+    "2024-06-21 16:00:00": {
+      "price": 126.57,
+      "change": 64.1,
+      "change_percent": 1.0261,
+      "volume": 655484664
+    },
+    "2024-06-24 16:00:00": {
+      "price": 118.11,
+      "change": 55.64,
+      "change_percent": 0.8907,
+      "volume": 476060866
+    },
+    "2024-06-25 16:00:00": {
+      "price": 126.09,
+      "change": 63.62,
+      "change_percent": 1.0184,
+      "volume": 425787456
+    },
+    "2024-06-26 16:00:00": {
+      "price": 126.4,
+      "change": 63.93,
+      "change_percent": 1.0234,
+      "volume": 362975918
+    },
+    "2024-06-27 16:00:00": {
+      "price": 123.99,
+      "change": 61.52,
+      "change_percent": 0.9848,
+      "volume": 252571693
+    },
+    "2024-06-28 16:00:00": {
+      "price": 123.54,
+      "change": 61.07,
+      "change_percent": 0.9776,
+      "volume": 315516740
+    },
+    "2024-07-01 16:00:00": {
+      "price": 124.3,
+      "change": 61.83,
+      "change_percent": 0.9898,
+      "volume": 284885534
+    },
+    "2024-07-02 16:00:00": {
+      "price": 122.67,
+      "change": 60.2,
+      "change_percent": 0.9637,
+      "volume": 218373969
+    },
+    "2024-07-03 13:05:00": {
+      "price": 128.28,
+      "change": 65.81,
+      "change_percent": 1.0535,
+      "volume": 215748955
+    },
+    "2024-07-05 16:00:00": {
+      "price": 125.83,
+      "change": 63.36,
+      "change_percent": 1.0142,
+      "volume": 214176689
+    },
+    "2024-07-08 16:00:00": {
+      "price": 128.2,
+      "change": 65.73,
+      "change_percent": 1.0522,
+      "volume": 237677322
+    },
+    "2024-07-09 16:00:00": {
+      "price": 131.38,
+      "change": 68.91,
+      "change_percent": 1.1031,
+      "volume": 287020820
+    },
+    "2024-07-10 16:00:00": {
+      "price": 134.91,
+      "change": 72.44,
+      "change_percent": 1.1596,
+      "volume": 248978569
+    },
+    "2024-07-11 16:00:00": {
+      "price": 127.4,
+      "change": 64.93,
+      "change_percent": 1.0394,
+      "volume": 374782738
+    },
+    "2024-07-12 16:00:00": {
+      "price": 129.24,
+      "change": 66.77,
+      "change_percent": 1.0688,
+      "volume": 252680535
+    },
+    "2024-07-15 16:00:00": {
+      "price": 128.44,
+      "change": 65.97,
+      "change_percent": 1.056,
+      "volume": 208326164
+    },
+    "2024-07-16 16:00:00": {
+      "price": 126.36,
+      "change": 63.89,
+      "change_percent": 1.0227,
+      "volume": 214769515
+    },
+    "2024-07-17 16:00:00": {
+      "price": 117.99,
+      "change": 55.52,
+      "change_percent": 0.8887,
+      "volume": 390086189
+    },
+    "2024-07-18 16:00:00": {
+      "price": 121.09,
+      "change": 58.62,
+      "change_percent": 0.9384,
+      "volume": 320979530
+    },
+    "2024-07-19 16:00:00": {
+      "price": 117.93,
+      "change": 55.46,
+      "change_percent": 0.8878,
+      "volume": 217223800
+    },
+    "2024-07-22 16:00:00": {
+      "price": 123.54,
+      "change": 61.07,
+      "change_percent": 0.9776,
+      "volume": 258068943
+    },
+    "2024-07-23 16:00:00": {
+      "price": 122.59,
+      "change": 60.12,
+      "change_percent": 0.9624,
+      "volume": 173910983
+    },
+    "2024-07-24 16:00:00": {
+      "price": 114.25,
+      "change": 51.78,
+      "change_percent": 0.8289,
+      "volume": 327776884
+    },
+    "2024-07-25 16:00:00": {
+      "price": 112.28,
+      "change": 49.81,
+      "change_percent": 0.7973,
+      "volume": 460067019
+    },
+    "2024-07-26 16:00:00": {
+      "price": 113.06,
+      "change": 50.59,
+      "change_percent": 0.8098,
+      "volume": 293399073
+    },
+    "2024-07-29 16:00:00": {
+      "price": 111.59,
+      "change": 49.12,
+      "change_percent": 0.7863,
+      "volume": 248152068
+    },
+    "2024-07-30 16:00:00": {
+      "price": 103.73,
+      "change": 41.26,
+      "change_percent": 0.6605,
+      "volume": 486833274
+    },
+    "2024-07-31 16:00:00": {
+      "price": 117.02,
+      "change": 54.55,
+      "change_percent": 0.8732,
+      "volume": 473174182
+    },
+    "2024-08-01 16:00:00": {
+      "price": 109.21,
+      "change": 46.74,
+      "change_percent": 0.7482,
+      "volume": 523462326
+    },
+    "2024-08-02 16:00:00": {
+      "price": 107.27,
+      "change": 44.8,
+      "change_percent": 0.7171,
+      "volume": 482027464
+    },
+    "2024-08-05 16:00:00": {
+      "price": 100.45,
+      "change": 37.98,
+      "change_percent": 0.608,
+      "volume": 552842375
+    },
+    "2024-08-06 16:00:00": {
+      "price": 104.25,
+      "change": 41.78,
+      "change_percent": 0.6688,
+      "volume": 409012089
+    },
+    "2024-08-07 16:00:00": {
+      "price": 98.91,
+      "change": 36.44,
+      "change_percent": 0.5833,
+      "volume": 411440423
+    },
+    "2024-08-08 16:00:00": {
+      "price": 104.97,
+      "change": 42.5,
+      "change_percent": 0.6803,
+      "volume": 391910023
+    },
+    "2024-08-09 16:00:00": {
+      "price": 104.75,
+      "change": 42.28,
+      "change_percent": 0.6768,
+      "volume": 290844157
+    },
+    "2024-08-12 16:00:00": {
+      "price": 109.02,
+      "change": 46.55,
+      "change_percent": 0.7452,
+      "volume": 325559870
+    },
+    "2024-08-13 16:00:00": {
+      "price": 116.14,
+      "change": 53.67,
+      "change_percent": 0.8591,
+      "volume": 312646660
+    },
+    "2024-08-14 16:00:00": {
+      "price": 118.08,
+      "change": 55.61,
+      "change_percent": 0.8902,
+      "volume": 339246407
+    },
+    "2024-08-15 16:00:00": {
+      "price": 122.86,
+      "change": 60.39,
+      "change_percent": 0.9667,
+      "volume": 318086673
+    },
+    "2024-08-16 16:00:00": {
+      "price": 124.58,
+      "change": 62.11,
+      "change_percent": 0.9942,
+      "volume": 302589872
+    },
+    "2024-08-19 16:00:00": {
+      "price": 130,
+      "change": 67.53,
+      "change_percent": 1.081,
+      "volume": 318333577
+    },
+    "2024-08-20 16:00:00": {
+      "price": 127.25,
+      "change": 64.78,
+      "change_percent": 1.037,
+      "volume": 300087415
+    },
+    "2024-08-21 16:00:00": {
+      "price": 128.5,
+      "change": 66.03,
+      "change_percent": 1.057,
+      "volume": 257883572
+    },
+    "2024-08-22 16:00:00": {
+      "price": 123.74,
+      "change": 61.27,
+      "change_percent": 0.9808,
+      "volume": 376189076
+    },
+    "2024-08-23 16:00:00": {
+      "price": 129.37,
+      "change": 66.9,
+      "change_percent": 1.0709,
+      "volume": 323230332
+    },
+    "2024-08-26 16:00:00": {
+      "price": 126.46,
+      "change": 63.99,
+      "change_percent": 1.0243,
+      "volume": 331964672
+    },
+    "2024-08-27 16:00:00": {
+      "price": 128.3,
+      "change": 65.83,
+      "change_percent": 1.0538,
+      "volume": 303134573
+    },
+    "2024-08-28 16:00:00": {
+      "price": 125.61,
+      "change": 63.14,
+      "change_percent": 1.0107,
+      "volume": 448101115
+    },
+    "2024-08-29 16:00:00": {
+      "price": 117.59,
+      "change": 55.12,
+      "change_percent": 0.8823,
+      "volume": 453023305
+    },
+    "2024-08-30 16:00:00": {
+      "price": 119.37,
+      "change": 56.9,
+      "change_percent": 0.9108,
+      "volume": 333751583
+    },
+    "2024-09-03 16:00:00": {
+      "price": 108,
+      "change": 45.53,
+      "change_percent": 0.7288,
+      "volume": 477155100
+    },
+    "2024-09-04 16:00:00": {
+      "price": 106.21,
+      "change": 43.74,
+      "change_percent": 0.7002,
+      "volume": 372470291
+    },
+    "2024-09-05 16:00:00": {
+      "price": 107.21,
+      "change": 44.74,
+      "change_percent": 0.7162,
+      "volume": 306850696
+    },
+    "2024-09-06 16:00:00": {
+      "price": 102.83,
+      "change": 40.36,
+      "change_percent": 0.6461,
+      "volume": 413638098
+    },
+    "2024-09-09 16:00:00": {
+      "price": 106.47,
+      "change": 44,
+      "change_percent": 0.7043,
+      "volume": 273912015
+    },
+    "2024-09-10 16:00:00": {
+      "price": 108.1,
+      "change": 45.63,
+      "change_percent": 0.7304,
+      "volume": 268283736
+    },
+    "2024-09-11 16:00:00": {
+      "price": 116.91,
+      "change": 54.44,
+      "change_percent": 0.8715,
+      "volume": 441422370
+    },
+    "2024-09-12 16:00:00": {
+      "price": 119.14,
+      "change": 56.67,
+      "change_percent": 0.9072,
+      "volume": 367100496
+    },
+    "2024-09-13 16:00:00": {
+      "price": 119.1,
+      "change": 56.63,
+      "change_percent": 0.9065,
+      "volume": 238358328
+    },
+    "2024-09-16 16:00:00": {
+      "price": 116.78,
+      "change": 54.31,
+      "change_percent": 0.8694,
+      "volume": 248772308
+    },
+    "2024-09-17 16:00:00": {
+      "price": 115.59,
+      "change": 53.12,
+      "change_percent": 0.8503,
+      "volume": 231925876
+    },
+    "2024-09-18 16:00:00": {
+      "price": 113.37,
+      "change": 50.9,
+      "change_percent": 0.8148,
+      "volume": 310318937
+    },
+    "2024-09-19 16:00:00": {
+      "price": 117.87,
+      "change": 55.4,
+      "change_percent": 0.8868,
+      "volume": 293506438
+    },
+    "2024-09-20 16:00:00": {
+      "price": 116,
+      "change": 53.53,
+      "change_percent": 0.8569,
+      "volume": 382462428
+    },
+    "2024-09-23 16:00:00": {
+      "price": 116.26,
+      "change": 53.79,
+      "change_percent": 0.8611,
+      "volume": 206228490
+    },
+    "2024-09-24 16:00:00": {
+      "price": 120.87,
+      "change": 58.4,
+      "change_percent": 0.9348,
+      "volume": 354966772
+    },
+    "2024-09-25 16:00:00": {
+      "price": 123.51,
+      "change": 61.04,
+      "change_percent": 0.9771,
+      "volume": 284692948
+    },
+    "2024-09-26 16:00:00": {
+      "price": 124.04,
+      "change": 61.57,
+      "change_percent": 0.9856,
+      "volume": 302582868
+    },
+    "2024-09-27 16:00:00": {
+      "price": 121.4,
+      "change": 58.93,
+      "change_percent": 0.9433,
+      "volume": 271009175
+    },
+    "2024-09-30 16:00:00": {
+      "price": 121.44,
+      "change": 58.97,
+      "change_percent": 0.944,
+      "volume": 227053651
+    },
+    "2024-10-01 16:00:00": {
+      "price": 117,
+      "change": 54.53,
+      "change_percent": 0.8729,
+      "volume": 302094485
+    },
+    "2024-10-02 16:00:00": {
+      "price": 118.85,
+      "change": 56.38,
+      "change_percent": 0.9025,
+      "volume": 221845887
+    },
+    "2024-10-03 16:00:00": {
+      "price": 122.85,
+      "change": 60.38,
+      "change_percent": 0.9665,
+      "volume": 277117973
+    },
+    "2024-10-04 16:00:00": {
+      "price": 124.92,
+      "change": 62.45,
+      "change_percent": 0.9997,
+      "volume": 244465552
+    },
+    "2024-10-07 16:00:00": {
+      "price": 127.72,
+      "change": 65.25,
+      "change_percent": 1.0445,
+      "volume": 346250233
+    },
+    "2024-10-08 16:00:00": {
+      "price": 132.89,
+      "change": 70.42,
+      "change_percent": 1.1273,
+      "volume": 285722485
+    },
+    "2024-10-09 16:00:00": {
+      "price": 132.65,
+      "change": 70.18,
+      "change_percent": 1.1234,
+      "volume": 246191612
+    },
+    "2024-10-10 16:00:00": {
+      "price": 134.81,
+      "change": 72.34,
+      "change_percent": 1.158,
+      "volume": 242311337
+    },
+    "2024-10-11 16:00:00": {
+      "price": 134.8,
+      "change": 72.33,
+      "change_percent": 1.1578,
+      "volume": 170209474
+    },
+    "2024-10-14 16:00:00": {
+      "price": 138.07,
+      "change": 75.6,
+      "change_percent": 1.2102,
+      "volume": 232347668
+    },
+    "2024-10-15 16:00:00": {
+      "price": 131.6,
+      "change": 69.13,
+      "change_percent": 1.1066,
+      "volume": 377831021
+    },
+    "2024-10-16 16:00:00": {
+      "price": 135.72,
+      "change": 73.25,
+      "change_percent": 1.1726,
+      "volume": 264879720
+    },
+    "2024-10-17 16:00:00": {
+      "price": 136.93,
+      "change": 74.46,
+      "change_percent": 1.1919,
+      "volume": 306435921
+    },
+    "2024-10-18 16:00:00": {
+      "price": 138,
+      "change": 75.53,
+      "change_percent": 1.2091,
+      "volume": 176090184
+    },
+    "2024-10-21 16:00:00": {
+      "price": 143.71,
+      "change": 81.24,
+      "change_percent": 1.3005,
+      "volume": 264554514
+    },
+    "2024-10-22 16:00:00": {
+      "price": 143.59,
+      "change": 81.12,
+      "change_percent": 1.2985,
+      "volume": 226311589
+    },
+    "2024-10-23 16:00:00": {
+      "price": 139.56,
+      "change": 77.09,
+      "change_percent": 1.234,
+      "volume": 285930038
+    },
+    "2024-10-24 16:00:00": {
+      "price": 140.41,
+      "change": 77.94,
+      "change_percent": 1.2476,
+      "volume": 172354888
+    },
+    "2024-10-25 16:00:00": {
+      "price": 141.54,
+      "change": 79.07,
+      "change_percent": 1.2657,
+      "volume": 205122109
+    },
+    "2024-10-28 16:00:00": {
+      "price": 140.52,
+      "change": 78.05,
+      "change_percent": 1.2494,
+      "volume": 173586745
+    },
+    "2024-10-29 16:00:00": {
+      "price": 141.25,
+      "change": 78.78,
+      "change_percent": 1.2611,
+      "volume": 157593634
+    },
+    "2024-10-30 16:00:00": {
+      "price": 139.34,
+      "change": 76.87,
+      "change_percent": 1.2305,
+      "volume": 179418082
+    },
+    "2024-10-31 16:00:00": {
+      "price": 132.76,
+      "change": 70.29,
+      "change_percent": 1.1252,
+      "volume": 270039641
+    },
+    "2024-11-01 16:00:00": {
+      "price": 135.4,
+      "change": 72.93,
+      "change_percent": 1.1674,
+      "volume": 207127838
+    },
+    "2024-11-04 16:00:00": {
+      "price": 136.05,
+      "change": 73.58,
+      "change_percent": 1.1778,
+      "volume": 187528173
+    },
+    "2024-11-05 16:00:00": {
+      "price": 139.91,
+      "change": 77.44,
+      "change_percent": 1.2396,
+      "volume": 160537373
+    },
+    "2024-11-06 16:00:00": {
+      "price": 145.61,
+      "change": 83.14,
+      "change_percent": 1.3309,
+      "volume": 242043945
+    },
+    "2024-11-07 16:00:00": {
+      "price": 148.88,
+      "change": 86.41,
+      "change_percent": 1.3832,
+      "volume": 207323303
+    },
+    "2024-11-08 16:00:00": {
+      "price": 147.63,
+      "change": 85.16,
+      "change_percent": 1.3632,
+      "volume": 175665830
+    },
+    "2024-11-11 16:00:00": {
+      "price": 145.26,
+      "change": 82.79,
+      "change_percent": 1.3253,
+      "volume": 182325620
+    },
+    "2024-11-12 16:00:00": {
+      "price": 148.29,
+      "change": 85.82,
+      "change_percent": 1.3738,
+      "volume": 198634738
+    },
+    "2024-11-13 16:00:00": {
+      "price": 146.27,
+      "change": 83.8,
+      "change_percent": 1.3414,
+      "volume": 191903267
+    },
+    "2024-11-14 16:00:00": {
+      "price": 146.76,
+      "change": 84.29,
+      "change_percent": 1.3493,
+      "volume": 194463301
+    },
+    "2024-11-15 16:00:00": {
+      "price": 141.98,
+      "change": 79.51,
+      "change_percent": 1.2728,
+      "volume": 250132869
+    },
+    "2024-11-18 16:00:00": {
+      "price": 140.15,
+      "change": 77.68,
+      "change_percent": 1.2435,
+      "volume": 221865993
+    },
+    "2024-11-19 16:00:00": {
+      "price": 147.01,
+      "change": 84.54,
+      "change_percent": 1.3533,
+      "volume": 227834912
+    },
+    "2024-11-20 16:00:00": {
+      "price": 145.89,
+      "change": 83.42,
+      "change_percent": 1.3354,
+      "volume": 309871654
+    },
+    "2024-11-21 16:00:00": {
+      "price": 146.67,
+      "change": 84.2,
+      "change_percent": 1.3478,
+      "volume": 400946570
+    },
+    "2024-11-22 16:00:00": {
+      "price": 141.95,
+      "change": 79.48,
+      "change_percent": 1.2723,
+      "volume": 236406154
+    },
+    "2024-11-25 16:00:00": {
+      "price": 136.02,
+      "change": 73.55,
+      "change_percent": 1.1774,
+      "volume": 344941875
+    },
+    "2024-11-26 16:00:00": {
+      "price": 136.92,
+      "change": 74.45,
+      "change_percent": 1.1918,
+      "volume": 190287654
+    },
+    "2024-11-27 16:00:00": {
+      "price": 135.34,
+      "change": 72.87,
+      "change_percent": 1.1665,
+      "volume": 226370912
+    },
+    "2024-11-29 13:05:00": {
+      "price": 138.25,
+      "change": 75.78,
+      "change_percent": 1.2131,
+      "volume": 141863156
+    },
+    "2024-12-02 16:00:00": {
+      "price": 138.63,
+      "change": 76.16,
+      "change_percent": 1.2191,
+      "volume": 171682777
+    },
+    "2024-12-03 16:00:00": {
+      "price": 140.26,
+      "change": 77.79,
+      "change_percent": 1.2452,
+      "volume": 164413965
+    },
+    "2024-12-04 16:00:00": {
+      "price": 145.14,
+      "change": 82.67,
+      "change_percent": 1.3234,
+      "volume": 231224295
+    },
+    "2024-12-05 16:00:00": {
+      "price": 145.06,
+      "change": 82.59,
+      "change_percent": 1.3221,
+      "volume": 172621180
+    },
+    "2024-12-06 16:00:00": {
+      "price": 142.44,
+      "change": 79.97,
+      "change_percent": 1.2801,
+      "volume": 188505573
+    },
+    "2024-12-09 16:00:00": {
+      "price": 138.81,
+      "change": 76.34,
+      "change_percent": 1.222,
+      "volume": 189308625
+    },
+    "2024-12-10 16:00:00": {
+      "price": 135.07,
+      "change": 72.6,
+      "change_percent": 1.1622,
+      "volume": 210020888
+    },
+    "2024-12-11 16:00:00": {
+      "price": 139.31,
+      "change": 76.84,
+      "change_percent": 1.23,
+      "volume": 184905192
+    },
+    "2024-12-12 16:00:00": {
+      "price": 137.34,
+      "change": 74.87,
+      "change_percent": 1.1985,
+      "volume": 159211393
+    },
+    "2024-12-13 16:00:00": {
+      "price": 134.25,
+      "change": 71.78,
+      "change_percent": 1.149,
+      "volume": 231514881
+    },
+    "2024-12-16 16:00:00": {
+      "price": 132,
+      "change": 69.53,
+      "change_percent": 1.113,
+      "volume": 237951130
+    },
+    "2024-12-17 16:00:00": {
+      "price": 130.39,
+      "change": 67.92,
+      "change_percent": 1.0872,
+      "volume": 259410263
+    },
+    "2024-12-18 16:00:00": {
+      "price": 128.91,
+      "change": 66.44,
+      "change_percent": 1.0636,
+      "volume": 277444533
+    },
+    "2024-12-19 16:00:00": {
+      "price": 130.68,
+      "change": 68.21,
+      "change_percent": 1.0919,
+      "volume": 209719210
+    },
+    "2024-12-20 16:00:00": {
+      "price": 134.7,
+      "change": 72.23,
+      "change_percent": 1.1562,
+      "volume": 306528553
+    },
+    "2024-12-23 16:00:00": {
+      "price": 139.67,
+      "change": 77.2,
+      "change_percent": 1.2358,
+      "volume": 176053506
+    },
+    "2024-12-24 13:05:00": {
+      "price": 140.22,
+      "change": 77.75,
+      "change_percent": 1.2446,
+      "volume": 105156989
+    },
+    "2024-12-26 16:00:00": {
+      "price": 139.93,
+      "change": 77.46,
+      "change_percent": 1.24,
+      "volume": 116519090
+    },
+    "2024-12-27 16:00:00": {
+      "price": 137.01,
+      "change": 74.54,
+      "change_percent": 1.1932,
+      "volume": 170582603
+    },
+    "2024-12-30 16:00:00": {
+      "price": 137.49,
+      "change": 75.02,
+      "change_percent": 1.2009,
+      "volume": 167734700
+    },
+    "2024-12-31 16:00:00": {
+      "price": 134.29,
+      "change": 71.82,
+      "change_percent": 1.1497,
+      "volume": 155659211
+    },
+    "2025-01-02 16:00:00": {
+      "price": 138.31,
+      "change": 75.84,
+      "change_percent": 1.214,
+      "volume": 198247166
+    },
+    "2025-01-03 16:00:00": {
+      "price": 144.47,
+      "change": 82,
+      "change_percent": 1.3126,
+      "volume": 229322478
+    },
+    "2025-01-06 16:00:00": {
+      "price": 149.43,
+      "change": 86.96,
+      "change_percent": 1.392,
+      "volume": 265377359
+    },
+    "2025-01-07 16:00:00": {
+      "price": 140.14,
+      "change": 77.67,
+      "change_percent": 1.2433,
+      "volume": 351782174
+    },
+    "2025-01-08 16:00:00": {
+      "price": 140.11,
+      "change": 77.64,
+      "change_percent": 1.2428,
+      "volume": 227349948
+    },
+    "2025-01-10 16:00:00": {
+      "price": 135.91,
+      "change": 73.44,
+      "change_percent": 1.1756,
+      "volume": 207602514
+    },
+    "2025-01-13 16:00:00": {
+      "price": 133.23,
+      "change": 70.76,
+      "change_percent": 1.1327,
+      "volume": 204808914
+    },
+    "2025-01-14 16:00:00": {
+      "price": 131.76,
+      "change": 69.29,
+      "change_percent": 1.1092,
+      "volume": 195590485
+    },
+    "2025-01-15 16:00:00": {
+      "price": 136.24,
+      "change": 73.77,
+      "change_percent": 1.1809,
+      "volume": 185217338
+    },
+    "2025-01-16 16:00:00": {
+      "price": 133.57,
+      "change": 71.1,
+      "change_percent": 1.1381,
+      "volume": 209235583
+    },
+    "2025-01-17 16:00:00": {
+      "price": 137.71,
+      "change": 75.24,
+      "change_percent": 1.2044,
+      "volume": 201188760
+    },
+    "2025-01-21 16:00:00": {
+      "price": 140.83,
+      "change": 78.36,
+      "change_percent": 1.2544,
+      "volume": 197748985
+    },
+    "2025-01-22 16:00:00": {
+      "price": 147.07,
+      "change": 84.6,
+      "change_percent": 1.3543,
+      "volume": 237651395
+    },
+    "2025-01-23 16:00:00": {
+      "price": 147.22,
+      "change": 84.75,
+      "change_percent": 1.3567,
+      "volume": 155915549
+    },
+    "2025-01-24 16:00:00": {
+      "price": 142.62,
+      "change": 80.15,
+      "change_percent": 1.283,
+      "volume": 234657635
+    },
+    "2025-01-27 16:00:00": {
+      "price": 118.42,
+      "change": 55.95,
+      "change_percent": 0.8956,
+      "volume": 818830895
+    },
+    "2025-01-28 16:00:00": {
+      "price": 128.99,
+      "change": 66.52,
+      "change_percent": 1.0648
+    }
+  },
+  "key_events": [],
+  "utc_offset_sec": -18000,
+  "interval_sec": 86400,
+  "period": "1Y"
+}
